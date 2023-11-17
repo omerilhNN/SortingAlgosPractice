@@ -1,0 +1,4 @@
+# ninja log v5
+11	154	7208898671471488	CMakeFiles/SortingAlgosPractice.dir/library.c.obj	653dd1bb04a78f40
+0	160	7208898671531328	CMakeFiles/SortingAlgosPractice.dir/SelectionSort.c.obj	922fcb82a9803763
+160	297	7208898672917616	libSortingAlgosPractice.a	64288b3f9dd44413
